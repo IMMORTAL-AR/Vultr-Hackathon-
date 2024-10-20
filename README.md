@@ -88,7 +88,8 @@ python emotion_analysis.py
 2. Type in a message or speak (if speech-to-text is implemented).
 3. Based on your input, the backend will detect your emotion and suggest appropriate entertainment (e.g., music or games).
 
-# Directory Structure
+## Directory Structure
+
 virtual-friend-ai/
 │
 ├── virtual-friend-frontend/       # React frontend
