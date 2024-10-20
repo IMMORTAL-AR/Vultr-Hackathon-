@@ -90,21 +90,7 @@ python emotion_analysis.py
 
 ## Directory Structure
 
-virtual-friend-ai/
-│
-├── virtual-friend-frontend/       # React frontend
-│   ├── public/
-│   ├── src/
-│   └── package.json
-│
-├── virtual-friend-backend/        # Node.js backend
-│   ├── server.js
-│   ├── package.json
-│   └── .env
-│
-├── emotion_analysis.py            # Python script for sentiment analysis
-├── README.md
-└── .gitignore
+virtual-friend-ai/ │ ├── virtual-friend-frontend/ # React frontend │ ├── public/ │ ├── src/ │ └── package.json │ ├── virtual-friend-backend/ # Node.js backend │ ├── server.js │ ├── package.json │ └── .env │ ├── emotion_analysis.py # Python script for sentiment analysis ├── README.md └── .gitignore
 
 # Emotion Detection (NLP)
 The emotion detection is handled by a Python script using **TextBlob** to analyze the polarity of the text and classify it as either **happy**, **sad**, **neutral**, etc.
