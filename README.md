@@ -1,3 +1,4 @@
+# code will be uploaded soon
 # Virtual Friend Using AI
 
 A Virtual Friend built using AI that detects user emotions based on text or speech input and provides personalized responses like music suggestions, games, and emotional support based on the user's mood.
